@@ -1,0 +1,219 @@
+ body {
+     background-color: #edf2c5;
+     width: 1260px;
+     height: 880px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     padding: 0px;
+ }
+
+ header {
+     display: flex;
+     justify-content: space-between;
+     width: 940px;
+     margin: 36px auto 5px auto;
+ }
+
+ .vegetables {
+     display: flex;
+     width: 271px;
+     height: 62px;
+     font-family: Arial;
+     font-size: 44px;
+     font-weight: 900;
+     line-height: 62px;
+     text-align: left;
+     color: #778a50;
+ }
+
+ .icon {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     padding: 24px 0px 13px 0px;
+ }
+
+ .btn_facebook {
+     width: 25px;
+     height: 25px;
+     margin-left: 10px;
+ }
+
+ .btn_instagram {
+     width: 25px;
+     height: 25px;
+     margin-left: 10px;
+ }
+
+ .line_login {
+     width: 1px;
+     height: 25px;
+     background-color: #778a50;
+     margin-left: 10px;
+ }
+
+ .btn_LOGIN_box {
+     width: 60px;
+     height: 25px;
+     border: solid 1px #778a50;
+     font-family: Arial;
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     color: #778a50;
+     margin-left: 10px;
+ }
+
+ .btn_JOIN_box {
+     width: 49px;
+     height: 25px;
+     border: solid 1px #778a50;
+     font-family: Arial;
+     font-size: 14px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     color: #778a50;
+     margin-left: 10px;
+ }
+
+ .nav_box {
+     width: 940px;
+     height: 44px;
+     border-radius: 3px;
+     background-color: #778a50;
+     margin: auto;
+
+ }
+
+ .ul {
+     display: flex;
+     margin: 0;
+     padding: 0;
+ }
+
+ .li {
+     font-family: Arial;
+     font-size: 16px;
+     font-weight: 900;
+     font-stretch: normal;
+     font-style: normal;
+     letter-spacing: normal;
+     text-align: left;
+     color: #edf2c5;
+     padding: 10px 30px;
+
+ }
+
+ .img_main_pumpkin {
+     width: 940px;
+     height: 448px;
+     margin: 20px auto 30px auto;
+ }
+
+ .article {
+     display: flex;
+     justify-content: space-between;
+     margin: 0 auto;
+     width: 940px;
+     height: 200px;
+ }
+
+ .article_left {}
+
+ .body_box_vegetables {
+     border-radius: 3px;
+     background-color: #778a50;
+     font-family: Arial;
+     font-size: 16px;
+     font-weight: 900;
+     font-stretch: normal;
+     font-style: normal;
+     letter-spacing: normal;
+     text-align: left;
+     color: #edf2c5;
+     padding: 10px 316px 12px 30px;
+ }
+
+ .img_div {
+     margin-top: 15px;
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .img {
+     width: 140px;
+     height: 140px;
+ }
+
+ .article_right {
+     margin-left: 52px;
+ }
+
+ .body_box_contact {
+     border-radius: 3px;
+     background-color: #778a50;
+     font-family: Arial;
+     font-size: 16px;
+     font-weight: 900;
+     font-stretch: normal;
+     font-style: normal;
+     letter-spacing: normal;
+     text-align: left;
+     color: #edf2c5;
+     padding: 10px 316px 12px 30px;
+ }
+
+ .body_box_contact_text {
+     padding: 15px;
+     background-color: #f7fbda;
+     margin-top: 15px;
+     font-family: Arial;
+     font-size: 12px;
+     font-weight: normal;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 1.25;
+     letter-spacing: normal;
+     text-align: left;
+     color: #7d7d7d;
+     height: 110px;
+ }
+
+ .line_contact_text {
+     width: 414px;
+     height: 1px;
+     background-color: #7d7d7d;
+     margin: 15px auto;
+ }
+
+ .E-mail {
+     font-family: Arial;
+     font-size: 12px;
+     font-weight: normal;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 1.75;
+     letter-spacing: normal;
+     text-align: left;
+     color: #7d7d7d;
+ }
+
+ .box_footer {
+     width: 1260px;
+     height: 60px;
+     background-color: #778a50;
+     margin: 35px auto 0px auto;
+     font-family: Arial;
+     font-size: 12px;
+     font-weight: normal;
+     font-stretch: normal;
+     font-style: normal;
+     line-height: 5;
+     letter-spacing: normal;
+     text-align: center;
+     color: #edf2c5;
+ }
